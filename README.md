@@ -1,2 +1,2 @@
-# lorkikn.github.io
+# Кирилл Перелыгин
 MyFirstProject
